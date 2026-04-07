@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { BrowserRouter, Routes, Route,Navigate, Link, useLocation } from 'react-router-dom'
 import LandingPage from './Components/Landing'
 import Products from './Components/Products'
+import OurTeampage from './Components/Team'
 import logo from './assets/Prothea logo.png';
 import './App.css'
 
@@ -108,7 +109,7 @@ function App() {
         <div className="flex-grow">
           <Routes>
             <Route path="/" element={<LandingPage />} />
-            {/* <Route path="/ourteam" element={<OurTeampage />} /> */}
+            <Route path="/ourteam" element={<OurTeampage />} />
             <Route path="/products" element={<Products />} />
             {/* <Route path="/contact" element={<ContactPage />} /> */}
             <Route path="*" element={<Navigate to="/" />} />
