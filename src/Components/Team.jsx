@@ -11,7 +11,7 @@ import amoo from '../assets/amoo.jpeg';
 const TeamPage = () => {
   const teamMembers = [
     {
-      name: "Dr. Nick Were",
+      name: "Dr. Nick Were", 
       role: "Co-Founder & Director, Orthopaedic Surgeon",
       bio: "An orthopedic surgery resident at Kenyatta National Hospital committed to patient-centered care and integrating 3D technology to improve inclusive orthopedic care for all Kenyans.",
       image: NICK, 

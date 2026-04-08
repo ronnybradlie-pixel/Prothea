@@ -59,7 +59,7 @@ const ContactPage = () => {
             <div className="flex flex-col items-center p-10 bg-gray-50 rounded-3xl border border-gray-100">
               <div className="text-5xl mb-6"></div>
               <h4 className="text-xl font-bold text-green-900 mb-2">Call Office</h4>
-              <p className="text-gray-500 text-sm text-center mb-4">Available Mon-Fri<br/>8:00 AM — 5:00 PM</p>
+              <p className="text-gray-500 text-sm text-center mb-4">Available Mon-Fri<br/>9:30 AM — 5:00 PM</p>
               <span className="text-green-700 font-bold text-lg"> +254 700 345 822</span>
             </div>
 
