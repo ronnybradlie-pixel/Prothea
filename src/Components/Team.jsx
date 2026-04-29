@@ -22,12 +22,12 @@ const TeamPage = () => {
       bio: "Co-founder of Ugani Prosthetics with an entrepreneurial mindset from startups. He led the launch of Prothea Kenya as a subsidiary of Ugani to expand access for underserved patients.",
       image: florian,
     },
-    {
-      name: "Belinda Adhiambo",
-      role: "Head of Operations",
-      bio: "A disability advocate with 4+ years of experience in inclusion. Belinda oversees operations to ensure amputees receive vital care, championing dignity and mobility.",
-      image: belinda,
-    },
+    // {
+    //   name: "Belinda Adhiambo",
+    //   role: "Head of Operations",
+    //   bio: "A disability advocate with 4+ years of experience in inclusion. Belinda oversees operations to ensure amputees receive vital care, championing dignity and mobility.",
+    //   image: belinda,
+    // },
     {
       name: "Amos Wafula",
       role: "Chief Prosthetist",
